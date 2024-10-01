@@ -12,7 +12,7 @@ programa
 		inteiro B = 200000
 		inteiro ano = 1
 
-		enquanto(inteiro A < inteiro B)
+		enquanto(inteiro A <= inteiro B)
 		{
 			
 			A = A + A * 3/100
